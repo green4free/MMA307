@@ -1,0 +1,990 @@
+x =
+
+  Columns 1 through 4
+
+   0.800000000000000   0.890952422716517   0.824493860658759   0.879087771072979
+
+  Columns 5 through 8
+
+   0.837328313359954   0.871394943155682   0.844814319658298   0.866371535935447
+
+  Columns 9 through 12
+
+   0.849378023854618   0.863099422901949   0.852220286381267   0.860977350414187
+
+  Columns 13 through 16
+
+   0.854010535488896   0.859606535360220   0.855145316029348   0.858723673409729
+
+  Columns 17 through 20
+
+   0.855867284284274   0.858156279200144   0.856327639318154   0.857792153796932
+
+  Columns 21 through 24
+
+   0.856621582388752   0.857558699700787   0.856809429631138   0.857409117501456
+
+  Columns 25 through 28
+
+   0.856929539864899   0.857313313939688   0.857006364951503   0.857251970335958
+
+  Columns 29 through 32
+
+   0.857055514560129   0.857212698296221   0.857086962842433   0.857187559154652
+
+  Columns 33 through 36
+
+   0.857107086735148   0.857171468001930   0.857119964825222   0.857161168778819
+
+  Columns 37 through 40
+
+   0.857128206330127   0.857154576898019   0.857133480711869   0.857150357929698
+
+  Columns 41 through 44
+
+   0.857136856249696   0.857147657716308   0.857139016571658   0.857145929545574
+
+  Columns 45 through 48
+
+   0.857140399171792   0.857144823499760   0.857141284035493   0.857144115622030
+
+  Columns 49 through 52
+
+   0.857141850349411   0.857143662575790   0.857142212791629   0.857143372623687
+
+  Columns 53 through 56
+
+   0.857142444755718   0.857143187052885   0.857142593213515   0.857143068286705
+
+  Columns 57 through 60
+
+   0.857142688227045   0.857142992275815   0.857142749036066   0.857142943628517
+
+  Columns 61 through 64
+
+   0.857142787954075   0.857142912494039   0.857142812861757   0.857142892567842
+
+  Columns 65 through 68
+
+   0.857142828802772   0.857142879814995   0.857142839005088   0.857142871653117
+
+  Columns 69 through 72
+
+   0.857142845534612   0.857142866429483   0.857142849713531   0.857142863086336
+
+  Columns 73 through 76
+
+   0.857142852388059   0.857142860946707   0.857142854099767   0.857142859577336
+
+  Columns 77 through 80
+
+   0.857142855195267   0.857142858700933   0.857142855896392   0.857142858140032
+
+  Columns 81 through 84
+
+   0.857142856345116   0.857142857781054   0.857142856632297   0.857142857551305
+
+  Columns 85 through 88
+
+   0.857142856816098   0.857142857404265   0.857142856933730   0.857142857310161
+
+  Columns 89 through 92
+
+   0.857142857009014   0.857142857249934   0.857142857057197   0.857142857211384
+
+  Columns 93 through 96
+
+   0.857142857088034   0.857142857186715   0.857142857107770   0.857142857170928
+
+  Columns 97 through 100
+
+   0.857142857120401   0.857142857160823   0.857142857128485   0.857142857154355
+
+LEN 100
+Relative error 0.730696
+Relative error^2 8.033826
+Absolute error 0.090952
+
+Relative error 0.821473
+Relative error^2 12.360679
+Absolute error 0.066459
+
+Relative error 0.764911
+Relative error^2 14.010913
+Absolute error 0.054594
+
+Relative error 0.815782
+Relative error^2 19.535272
+Absolute error 0.041759
+
+Relative error 0.780254
+Relative error^2 22.903762
+Absolute error 0.034067
+
+Relative error 0.811012
+Relative error^2 30.511415
+Absolute error 0.026581
+
+Relative error 0.788298
+Relative error^2 36.567712
+Absolute error 0.021557
+
+Relative error 0.807449
+Relative error^2 47.515150
+Absolute error 0.016994
+
+Relative error 0.792859
+Relative error^2 57.782674
+Absolute error 0.013721
+
+Relative error 0.804941
+Relative error^2 73.989428
+Absolute error 0.010879
+
+Relative error 0.795565
+Relative error^2 90.848387
+Absolute error 0.008757
+
+Relative error 0.803236
+Relative error^2 115.294648
+Absolute error 0.006967
+
+Relative error 0.797216
+Relative error^2 142.461720
+Absolute error 0.005596
+
+Relative error 0.802103
+Relative error^2 179.794566
+Absolute error 0.004461
+
+Relative error 0.798240
+Relative error^2 223.074509
+Absolute error 0.003578
+
+Relative error 0.801360
+Relative error^2 280.549879
+Absolute error 0.002856
+
+Relative error 0.798883
+Relative error^2 349.010531
+Absolute error 0.002289
+
+Relative error 0.800876
+Relative error^2 437.962872
+Absolute error 0.001829
+
+Relative error 0.799290
+Relative error^2 545.771148
+Absolute error 0.001465
+
+Relative error 0.800564
+Relative error^2 683.908713
+Absolute error 0.001171
+
+Relative error 0.799548
+Relative error^2 853.199245
+Absolute error 0.000937
+
+Relative error 0.800363
+Relative error^2 1068.189969
+Absolute error 0.000749
+
+Relative error 0.799712
+Relative error^2 1333.547206
+Absolute error 0.000600
+
+Relative error 0.800233
+Relative error^2 1668.621316
+Absolute error 0.000480
+
+Relative error 0.799817
+Relative error^2 2084.082656
+Absolute error 0.000384
+
+Relative error 0.800150
+Relative error^2 2606.786549
+Absolute error 0.000307
+
+Relative error 0.799884
+Relative error^2 3256.784589
+Absolute error 0.000246
+
+Relative error 0.800097
+Relative error^2 4072.658582
+Absolute error 0.000196
+
+Relative error 0.799927
+Relative error^2 5089.118212
+Absolute error 0.000157
+
+Relative error 0.800063
+Relative error^2 6363.067834
+Absolute error 0.000126
+
+Relative error 0.799954
+Relative error^2 7952.120253
+Absolute error 0.000101
+
+Relative error 0.800041
+Relative error^2 9941.808637
+Absolute error 0.000080
+
+Relative error 0.799971
+Relative error^2 12425.531699
+Absolute error 0.000064
+
+Relative error 0.800027
+Relative error^2 15533.554848
+Absolute error 0.000052
+
+Relative error 0.799983
+Relative error^2 19415.191923
+Absolute error 0.000041
+
+Relative error 0.800018
+Relative error^2 24270.602017
+Absolute error 0.000033
+
+Relative error 0.799990
+Relative error^2 30336.465798
+Absolute error 0.000026
+
+Relative error 0.800013
+Relative error^2 37922.150532
+Absolute error 0.000021
+
+Relative error 0.799994
+Relative error^2 47400.846690
+Absolute error 0.000017
+
+Relative error 0.800009
+Relative error^2 59252.558270
+Absolute error 0.000014
+
+Relative error 0.799997
+Relative error^2 74063.770909
+Absolute error 0.000011
+
+Relative error 0.800007
+Relative error^2 92581.106698
+Absolute error 0.000009
+
+Relative error 0.799999
+Relative error^2 115724.322932
+Absolute error 0.000007
+
+Relative error 0.800005
+Relative error^2 144656.629892
+Absolute error 0.000006
+
+Relative error 0.800000
+Relative error^2 180818.518384
+Absolute error 0.000004
+
+Relative error 0.800004
+Relative error^2 226024.113391
+Absolute error 0.000004
+
+Relative error 0.800001
+Relative error^2 282527.546408
+Absolute error 0.000003
+
+Relative error 0.800004
+Relative error^2 353159.990660
+Absolute error 0.000002
+
+Relative error 0.800002
+Relative error^2 441446.883699
+Absolute error 0.000002
+
+Relative error 0.800003
+Relative error^2 551808.526801
+Absolute error 0.000001
+
+Relative error 0.800002
+Relative error^2 689756.760336
+Absolute error 0.000001
+
+Relative error 0.800003
+Relative error^2 862194.877752
+Absolute error 0.000001
+
+Relative error 0.800002
+Relative error^2 1077738.458644
+Absolute error 0.000001
+
+Relative error 0.800003
+Relative error^2 1347170.450927
+Absolute error 0.000001
+
+Relative error 0.800002
+Relative error^2 1683955.967775
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 2104939.897684
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 2631164.769168
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 3288947.148427
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 4111169.113978
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 5138946.556876
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 6423660.861725
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 8029552.165267
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 10036906.637407
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 12546094.831072
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 15682565.329482
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 19603145.281470
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 24503852.877818
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 30629722.842211
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 38287033.597469
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 47858631.030189
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 59823083.046337
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 74778620.728413
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 93473001.877798
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 116840890.957464
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 146050674.247306
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 182562709.365807
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 228202624.973234
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 285252587.307245
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 356564408.186306
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 445704923.017407
+Absolute error 0.000000
+
+Relative error 0.800004
+Relative error^2 557130130.710730
+Absolute error 0.000000
+
+Relative error 0.800003
+Relative error^2 696407618.854560
+Absolute error 0.000000
+
+Relative error 0.800001
+Relative error^2 870504917.415254
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 1088130719.541149
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 1360161409.647870
+Absolute error 0.000000
+
+Relative error 0.800007
+Relative error^2 1700205372.437013
+Absolute error 0.000000
+
+Relative error 0.800007
+Relative error^2 2125239948.222910
+Absolute error 0.000000
+
+Relative error 0.800007
+Relative error^2 2656526625.978613
+Absolute error 0.000000
+
+Relative error 0.800002
+Relative error^2 3320610003.314784
+Absolute error 0.000000
+
+Relative error 0.799986
+Relative error^2 4150671886.791087
+Absolute error 0.000000
+
+Relative error 0.800004
+Relative error^2 5188539543.069147
+Absolute error 0.000000
+
+Relative error 0.800007
+Relative error^2 6485670050.359523
+Absolute error 0.000000
+
+Relative error 0.799996
+Relative error^2 8106911528.779986
+Absolute error 0.000000
+
+Relative error 0.800021
+Relative error^2 10134012798.940168
+Absolute error 0.000000
+
+Relative error 0.800019
+Relative error^2 12667134096.856163
+Absolute error 0.000000
+
+Relative error 0.800018
+Relative error^2 15833527945.404314
+Absolute error 0.000000
+
+Relative error 0.799998
+Relative error^2 19790999419.137619
+Absolute error 0.000000
+
+Relative error 0.799999
+Relative error^2 24738808727.095188
+Absolute error 0.000000
+
+
+x =
+
+  Columns 1 through 4
+
+   1.900000000000000   1.962512378500792   1.985337664685395   1.994194672897072
+
+  Columns 5 through 8
+
+   1.997712848227637   1.999159562434138   1.999968687356075   1.999968612129116
+
+  Columns 9 through 12
+
+   1.999968545928229   1.999968476717066   1.999968413523346   1.999968341300912
+
+  Columns 13 through 16
+
+   1.999968278105053   1.999968202870660   1.999968130644514   1.999968061426228
+
+  Columns 17 through 20
+
+   1.999967986187672   1.999967910947857   1.999967832697083   1.999967757454105
+
+  Columns 21 through 24
+
+   1.999967688229778   1.999967625023568   1.999967543757333   1.999967465499552
+
+  Columns 25 through 28
+
+   1.999967396270108   1.999967311988904   1.999967242756913   1.999967158472657
+
+  Columns 29 through 32
+
+   1.999967074186471   1.999966998929500   1.999966917650802   1.999966839380129
+
+  Columns 33 through 36
+
+   1.999966755087338   1.999966676813968   1.999966592517483   1.999966508219201
+
+  Columns 37 through 40
+
+   1.999966423919741   1.999966336608097   1.999966249293926   1.999966149934028
+
+  Columns 41 through 44
+
+   1.999966053583376   1.999965963251972   1.999965884962379   1.999965800648873
+
+  Columns 45 through 48
+
+   1.999965707300177   1.999965619971304   1.999965532640875   1.999965448319448
+
+  Columns 49 through 52
+
+   1.999965357973068   1.999965255577728   1.999965162215115   1.999965068849886
+
+  Columns 53 through 56
+
+   1.999964978494503   1.999964879100913   1.999964779704345   1.999964671268605
+
+  Columns 57 through 60
+
+   1.999964571866840   1.999964478487104   1.999964376068245   1.999964279671040
+
+  Columns 61 through 64
+
+   1.999964183270964   1.999964080844211   1.999963975401078   1.999963872967562
+
+  Columns 65 through 68
+
+   1.999963770531612   1.999963665080271   1.999963556612586   1.999963445127971
+
+  Columns 69 through 72
+
+   1.999963333640501   1.999963219135467   1.999963107640430   1.999962996141957
+
+  Columns 73 through 76
+
+   1.999962884639733   1.999962767107419   1.999962652584335   1.999962535043657
+
+  Columns 77 through 80
+
+   1.999962417498985   1.999962302963790   1.999962164312638   1.999962040727048
+
+  Columns 81 through 84
+
+   1.999961923166185   1.999961796556973   1.999961666929881   1.999961537296774
+
+  Columns 85 through 88
+
+   1.999961407658793   1.999961275001454   1.999961148367567   1.999961012684720
+
+  Columns 89 through 92
+
+   1.999960883026033   1.999960753362816   1.999960611631815   1.999960469893726
+
+  Columns 93 through 96
+
+   1.999960322119747   1.999960183386356   1.999960041631393   1.999959893837506
+
+  Columns 97 through 100
+
+   1.999959761119768   1.999959616330061   1.999959459467592   1.999959308631318
+
+LEN 100
+Relative error 0.365132
+Relative error^2 5.840959
+Absolute error 0.062512
+
+Relative error 0.388035
+Relative error^2 17.000222
+Absolute error 0.022825
+
+Relative error 0.397219
+Relative error^2 44.848031
+Absolute error 0.008857
+
+Relative error 0.411212
+Relative error^2 116.882041
+Absolute error 0.003518
+
+Relative error 0.559285
+Relative error^2 386.589528
+Absolute error 0.001447
+
+Relative error 0.000093
+Relative error^2 0.114906
+Absolute error 0.000809
+
+Relative error 0.880015
+Relative error^2 11698139.185643
+Absolute error 0.000000
+
+Relative error 1.045472
+Relative error^2 15792414.620718
+Absolute error 0.000000
+
+Relative error 0.913057
+Relative error^2 13192333.637134
+Absolute error 0.000000
+
+Relative error 1.142874
+Relative error^2 18085239.686093
+Absolute error 0.000000
+
+Relative error 0.875017
+Relative error^2 12115585.210179
+Absolute error 0.000000
+
+Relative error 1.190496
+Relative error^2 18838189.650978
+Absolute error 0.000000
+
+Relative error 0.960015
+Relative error^2 12760321.098003
+Absolute error 0.000000
+
+Relative error 0.958355
+Relative error^2 13268809.321899
+Absolute error 0.000000
+
+Relative error 1.086975
+Relative error^2 15703583.826060
+Absolute error 0.000000
+
+Relative error 1.000017
+Relative error^2 13291280.043963
+Absolute error 0.000000
+
+Relative error 1.040018
+Relative error^2 13822710.474074
+Absolute error 0.000000
+
+Relative error 0.961562
+Relative error^2 12288211.927079
+Absolute error 0.000000
+
+Relative error 0.920010
+Relative error^2 12227193.580839
+Absolute error 0.000000
+
+Relative error 0.913064
+Relative error^2 13189923.148604
+Absolute error 0.000000
+
+Relative error 1.285732
+Relative error^2 20341858.817932
+Absolute error 0.000000
+
+Relative error 0.962980
+Relative error^2 11849697.186359
+Absolute error 0.000000
+
+Relative error 0.884633
+Relative error^2 11304094.560220
+Absolute error 0.000000
+
+Relative error 1.217418
+Relative error^2 17585270.304967
+Absolute error 0.000000
+
+Relative error 0.821440
+Relative error^2 9746425.201018
+Absolute error 0.000000
+
+Relative error 1.217418
+Relative error^2 17584613.117290
+Absolute error 0.000000
+
+Relative error 1.000023
+Relative error^2 11864883.959553
+Absolute error 0.000000
+
+Relative error 0.892874
+Relative error^2 10593364.686073
+Absolute error 0.000000
+
+Relative error 1.080016
+Relative error^2 14351036.421843
+Absolute error 0.000000
+
+Relative error 0.962991
+Relative error^2 11848014.982173
+Absolute error 0.000000
+
+Relative error 1.076940
+Relative error^2 13759171.915500
+Absolute error 0.000000
+
+Relative error 0.928589
+Relative error^2 11016234.289097
+Absolute error 0.000000
+
+Relative error 1.076950
+Relative error^2 13758826.735283
+Absolute error 0.000000
+
+Relative error 1.000021
+Relative error^2 11863143.871054
+Absolute error 0.000000
+
+Relative error 1.000014
+Relative error^2 11862803.610637
+Absolute error 0.000000
+
+Relative error 1.035732
+Relative error^2 12286341.534151
+Absolute error 0.000000
+
+Relative error 1.000029
+Relative error^2 11453557.490358
+Absolute error 0.000000
+
+Relative error 1.137958
+Relative error^2 13032918.137976
+Absolute error 0.000000
+
+Relative error 0.969714
+Relative error^2 9759608.209173
+Absolute error 0.000000
+
+Relative error 0.937528
+Relative error^2 9730371.909726
+Absolute error 0.000000
+
+Relative error 0.866693
+Relative error^2 9594592.255931
+Absolute error 0.000000
+
+Relative error 1.076944
+Relative error^2 13755902.028903
+Absolute error 0.000000
+
+Relative error 1.107162
+Relative error^2 13131488.633612
+Absolute error 0.000000
+
+Relative error 0.935513
+Relative error^2 10021698.718753
+Absolute error 0.000000
+
+Relative error 1.000018
+Relative error^2 11451170.518657
+Absolute error 0.000000
+
+Relative error 0.965545
+Relative error^2 11056222.078753
+Absolute error 0.000000
+
+Relative error 1.071452
+Relative error^2 12706761.277221
+Absolute error 0.000000
+
+Relative error 1.133364
+Relative error^2 12544653.635549
+Absolute error 0.000000
+
+Relative error 0.911786
+Relative error^2 8904563.006806
+Absolute error 0.000000
+
+Relative error 1.000028
+Relative error^2 10711225.845180
+Absolute error 0.000000
+
+Relative error 0.967763
+Relative error^2 10365343.367143
+Absolute error 0.000000
+
+Relative error 1.100030
+Relative error^2 12174477.140676
+Absolute error 0.000000
+
+Relative error 1.000030
+Relative error^2 10061312.312941
+Absolute error 0.000000
+
+Relative error 1.090940
+Relative error^2 10975635.457667
+Absolute error 0.000000
+
+Relative error 0.916688
+Relative error^2 8453746.144245
+Absolute error 0.000000
+
+Relative error 0.939417
+Relative error^2 9450710.275681
+Absolute error 0.000000
+
+Relative error 1.096800
+Relative error^2 11745584.831927
+Absolute error 0.000000
+
+Relative error 0.941206
+Relative error^2 9189768.565521
+Absolute error 0.000000
+
+Relative error 1.000030
+Relative error^2 10374053.830798
+Absolute error 0.000000
+
+Relative error 1.062517
+Relative error^2 11021955.367817
+Absolute error 0.000000
+
+Relative error 1.029449
+Relative error^2 10050588.588354
+Absolute error 0.000000
+
+Relative error 0.971457
+Relative error^2 9213093.337387
+Absolute error 0.000000
+
+Relative error 1.000024
+Relative error^2 9762661.783467
+Absolute error 0.000000
+
+Relative error 1.029437
+Relative error^2 10049565.909206
+Absolute error 0.000000
+
+Relative error 1.028604
+Relative error^2 9754301.226146
+Absolute error 0.000000
+
+Relative error 1.027814
+Relative error^2 9475762.995166
+Absolute error 0.000000
+
+Relative error 1.000026
+Relative error^2 8970077.319393
+Absolute error 0.000000
+
+Relative error 1.027066
+Relative error^2 9212393.110217
+Absolute error 0.000000
+
+Relative error 0.973713
+Relative error^2 8503669.643111
+Absolute error 0.000000
+
+Relative error 1.000031
+Relative error^2 8969285.305847
+Absolute error 0.000000
+
+Relative error 1.000034
+Relative error^2 8969034.549549
+Absolute error 0.000000
+
+Relative error 1.054080
+Relative error^2 9453447.603296
+Absolute error 0.000000
+
+Relative error 0.974397
+Relative error^2 8290456.868861
+Absolute error 0.000000
+
+Relative error 1.026349
+Relative error^2 8961941.796509
+Absolute error 0.000000
+
+Relative error 1.000034
+Relative error^2 8507982.192675
+Absolute error 0.000000
+
+Relative error 0.974397
+Relative error^2 8289590.088078
+Absolute error 0.000000
+
+Relative error 1.210555
+Relative error^2 10569284.002718
+Absolute error 0.000000
+
+Relative error 0.891342
+Relative error^2 6428666.094549
+Absolute error 0.000000
+
+Relative error 0.951251
+Relative error^2 7697099.446443
+Absolute error 0.000000
+
+Relative error 1.076967
+Relative error^2 9160934.374982
+Absolute error 0.000000
+
+Relative error 1.023836
+Relative error^2 8086585.268845
+Absolute error 0.000000
+
+Relative error 1.000046
+Relative error^2 7714794.595285
+Absolute error 0.000000
+
+Relative error 1.000038
+Relative error^2 7714368.881885
+Absolute error 0.000000
+
+Relative error 1.023291
+Relative error^2 7893448.233442
+Absolute error 0.000000
+
+Relative error 0.954594
+Relative error^2 7195937.328999
+Absolute error 0.000000
+
+Relative error 1.071458
+Relative error^2 8461065.776993
+Absolute error 0.000000
+
+Relative error 0.955601
+Relative error^2 7042903.368050
+Absolute error 0.000000
+
+Relative error 1.000035
+Relative error^2 7712826.235316
+Absolute error 0.000000
+
+Relative error 1.093070
+Relative error^2 8430071.782065
+Absolute error 0.000000
+
+Relative error 1.000050
+Relative error^2 7055972.249005
+Absolute error 0.000000
+
+Relative error 1.042585
+Relative error^2 7355713.722320
+Absolute error 0.000000
+
+Relative error 0.938822
+Relative error^2 6353090.898456
+Absolute error 0.000000
+
+Relative error 1.021780
+Relative error^2 7365059.684807
+Absolute error 0.000000
+
+Relative error 1.042601
+Relative error^2 7354953.371444
+Absolute error 0.000000
+
+Relative error 0.897992
+Relative error^2 6075975.668104
+Absolute error 0.000000
+
+Relative error 1.090960
+Relative error^2 8220150.157979
+Absolute error 0.000000
+
+Relative error 1.083381
+Relative error^2 7482447.310209
+Absolute error 0.000000
+
+Relative error 0.961583
+Relative error^2 6130102.022975
+Absolute error 0.000000

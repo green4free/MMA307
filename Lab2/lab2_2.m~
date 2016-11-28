@@ -1,0 +1,14 @@
+format long
+clear
+clc
+f = @(x) 12 - 26*x + 20* x^2 - 7 * x^3 - 12 * exp(1)^(x-2) + 14*x*exp(1)^(x-2);
+%ezplot(f)
+x = newton(f,0.85,1e-19,1e-19,25)
+for n = 2:length(x)-1
+    a(n) = abs(x(n+1) - x(n)) / abs(x(n) - x(n-1));
+    b(n) = abs(x(n+1) - x(n)) / abs(x(n) - x(n-1))^2;
+    c(n) = abs(x(n) - x(n-1));
+   fprintf('Error1 %f\n',a(n));
+     fprintf('Error2 %f\n',b(n));
+     fprintf('Absolute error %
+end

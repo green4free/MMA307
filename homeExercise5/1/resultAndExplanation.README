@@ -1,0 +1,58 @@
+Result:
+>> hv5a
+
+x =
+
+     1
+     1
+     1
+
+
+ans =
+
+     1
+
+
+x =
+
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+
+
+ans =
+
+     1
+
+
+x =
+
+   1.000111146665610
+   0.999680709838867
+   1.000374755859375
+   0.999758561452230
+   1.000095625718435
+   0.999975482622782
+   1.000004146070707
+   0.999999541059757
+   1.000000031959207
+   0.999999998731151
+   1.000000000021878
+
+
+ans =
+
+     1
+
+
+Explanation:
+x do not equal 1 for n = 11 because of the way matlab saves big numbers.
+For n = 3 and n = 7 all the elements of A and B are saved as itegers
+but when n = 11 some of the elements are so big that matlab saves them 
+with floating point scientific notation. There some small errors are 
+introduced because of the limited number of digits saved in the floating 
+point number.

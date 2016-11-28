@@ -1,0 +1,14 @@
+The method is not converging. That is because [2, 4; 8, -2] is not diagonally dominant.
+And acording to (Mathews, pp.164) "Program 3.5 (Gauss-Seidel Iteration). To solve the linear system AX = B
+by starting with the initial guess X = P0 and generating a sequence { Pk } that
+converges to the solution. A sufficient condition for the method to be applicable is
+that A is strictly diagonally dominant."
+If A is instead set as [4, 2; -2, 8] then A is diagonally dominant an the system can be solved by Gauss-Seidel Iteration.
+
+Result:
+>> hv5b
+
+ans =
+
+   0.777777777751908
+   0.444444444437977
